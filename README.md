@@ -1,0 +1,2 @@
+# qt-layered-mvvm-scaffold
+
